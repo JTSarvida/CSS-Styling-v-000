@@ -9,6 +9,7 @@ selector {
 
 */
 
+<<<<<<< HEAD
 /* Type selector */
 
 p { /* select all <p> */
@@ -25,3 +26,9 @@ figcaption {
   text-align: right;
 }
 
+=======
+/* Type selector *?/
+
+p { /* select all <p> */
+  font-size: 16px; 
+>>>>>>> cc80e32f6595995f73ad8734ea645151cfc44eb6
